@@ -1,6 +1,5 @@
 ### Hi, I'm Johanny Vargas González 👋
 
-<!--
 **jonanv/jonanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jonan-vargas23@hotmail.com or jovargasgo@unal.edu.co
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ## ⚡ Technologies
 
