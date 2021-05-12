@@ -1,8 +1,10 @@
 ### Hi, I'm Johanny Vargas González 👋
 
+<--
 **jonanv/jonanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
+-->
 
 - 🔭 I'm a Information System Management
 - 🌱 I’m currently learning ...
