@@ -1,11 +1,15 @@
 ### Hi, I'm Johanny Vargas González 👋
 
+**I'm an Information Systems Manager from National University of Colombia with +5 years of experience, I'm characterized for having a good performance and stand out in what I do, I like to do my job in the best way possible, I don't like the mediocrity, I consider myself perfectionist and transparent, I defend my position in any case if I believe I'm right, I'm demanding with myself, I like to be in constant learning and work in a team giving the best of myself to contribute to it.**
+
+
 <!--
 **jonanv/jonanv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
 -->
 
+<!--
 - 🔭 I'm a Information System Management
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,6 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jonan-vargas23@hotmail.com or jovargasgo@unal.edu.co
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 ## ⚡ Technologies
 
