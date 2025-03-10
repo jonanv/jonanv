@@ -1,4 +1,4 @@
-### Hi, I'm Johanny Vargas González 👋
+### Hi, I'm Johanny 👋
 
 **I'm an Information Systems Manager from National University of Colombia with +7 years of experience, I'm characterized for having a good performance and stand out in what I do, I like to do my job in the best way possible, I don't like the mediocrity, I consider myself perfectionist and transparent, I defend my position in any case if I believe I'm right, I'm demanding with myself, I like to be in constant learning and work in a team giving the best of myself to contribute to it.**
 
