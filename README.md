@@ -1,6 +1,14 @@
 ### Hi, I'm Johanny 👋
 
-**I'm an Information Systems Manager from National University of Colombia with +7 years of experience, I'm characterized for having a good performance and stand out in what I do, I like to do my job in the best way possible, I don't like the mediocrity, I consider myself perfectionist and transparent, I defend my position in any case if I believe I'm right, I'm demanding with myself, I like to be in constant learning and work in a team giving the best of myself to contribute to it.**
+**
+I'm an Information Systems Manager from the National University of Colombia, passionate about optimizing processes, solving complex challenges, and driving efficiency through technology. Throughout my career, I have consistently delivered high-quality work, standing out for my dedication, precision, and commitment to continuous improvement.
+
+I value excellence over mediocrity and approach my work with a perfectionist mindset, always prioritizing transparency and integrity. Confident in my ideas, I defend my perspectives while remaining open to collaboration and constructive discussions.
+
+Always eager to learn and grow, I thrive in team environments, bringing my best to every project and contributing meaningfully to collective success.
+
+Let’s connect and explore opportunities together! 🚀
+**
 
 
 <!--
