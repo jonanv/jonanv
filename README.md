@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-FFF?style=flat&logo=angular&logoColor=DD0C31)
 ![React](https://img.shields.io/badge/-React-gray?style=flat-&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-&logo=vue.js)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-&logo=Node.js)
 ![NPM](https://img.shields.io/badge/-NPM-DD0C31?style=flat-&logo=npm)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-&logo=python)
