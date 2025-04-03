@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-&logo=bootstrap&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-&logo=typescript)
-![PostgresQL](https://img.shields.io/badge/-postgres-blue?style=flat-&logo=postgresql)
+![PostgresQL](https://img.shields.io/badge/-postgres-white?style=flat-&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-&logo=mysql&logoColor=orange)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=flat-&logo=Microsoft-SQL-Server)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-26A852?style=flat-&logo=MongoDB&logoColor=FFF)
