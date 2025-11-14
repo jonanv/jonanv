@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## ⚡ Technologies
 
 
-![JavaScript](https://img.shields.io/badge/-Javascript-black?style=flat-&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Angular](https://img.shields.io/badge/-Angular-FFF?style=flat&logo=angular&logoColor=DD0C31)
 ![React](https://img.shields.io/badge/-React-gray?style=flat-&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-&logo=vue.js)
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-&logo=bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-&logo=typescript)
 ![PostgresQL](https://img.shields.io/badge/-postgres-white?style=flat-&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat-&logo=mysql&logoColor=orange)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=flat-&logo=Microsoft-SQL-Server)
